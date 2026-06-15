@@ -1,11 +1,5 @@
 <div align="center">
 
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-shabnam--s-c084fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=e9d5ff)](https://linkedin.com/in/shabnam-s)&nbsp;
-[![Gmail](https://img.shields.io/badge/gmail-shabnam.offl-f9a8d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fce7f3)](mailto:shabnam.offl@gmail.com)
-
 </div>
 
 ---
