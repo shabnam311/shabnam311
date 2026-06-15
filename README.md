@@ -4,7 +4,7 @@
 
 ```
 B.Tech AI & Data Science  ·  Amrita Vishwa Vidyapeetham  ·  2028
-Salem, Tamil Nadu  ·  CGPA 8.46
+Salem, Tamil Nadu  
 
 member of Rewriting the Code (RtC)
 ```
