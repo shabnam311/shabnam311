@@ -1,8 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3c6,ffc8dd,bde0fe,a2d2ff&height=200&section=header&text=hi,%20i'm%20shabnam%20✿&fontSize=42&fontColor=5c4a6b&fontAlignY=38&desc=ai%20%26%20data%20science%20%7C%20building%20things%20that%20think&descAlignY=58&descSize=16&descFontColor=7d6b8a)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=18&pause=1000&color=c084fc&center=true&vCenter=true&width=480&lines=federated+learning+%F0%9F%A7%A0;edge+AI+on+Jetson+Orin+Nano+%E2%9A%A1;graph+neural+networks+%F0%9F%95%B8%EF%B8%8F;NLP+%26+LLMs+%F0%9F%92%AC;signal+classification+%F0%9F%93%A1)](https://git.io/typing-svg)
 
 <br>
 
