@@ -1,13 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3c6,ffc8dd,c5b4e3,bde0fe&height=180&section=header&text=shabnam%20s&fontSize=48&fontColor=5c4a6b&fontAlignY=40&desc=ai%20%26%20data%20science%20%7C%20building%20things%20that%20think&descAlignY=60&descSize=15&descFontColor=9b7ec8)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=16&pause=1200&color=c084fc&center=true&vCenter=true&width=460&lines=federated+learning;edge+AI+on+Jetson+Orin+Nano;graph+neural+networks;NLP+%26+LLMs;signal+classification)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ### about me
 
 ```
