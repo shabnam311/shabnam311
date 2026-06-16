@@ -62,7 +62,6 @@ member at Rewriting the Code (RtC)
 
 <div align="center">
 
-<img src="./assets/pixel-stats.svg" alt="pixel stats" width="700"/>
 
 <br><br>
 
