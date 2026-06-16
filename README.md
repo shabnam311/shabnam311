@@ -1,12 +1,20 @@
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3c6,ffc8dd,c5b4e3,bde0fe&height=180&section=header&text=shabnam%20s&fontSize=48&fontColor=5c4a6b&fontAlignY=40&desc=ai%20%26%20data%20science%20%7C%20building%20things%20that%20think&descAlignY=60&descSize=15&descFontColor=9b7ec8)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=16&pause=1200&color=c084fc&center=true&vCenter=true&width=460&lines=federated+learning;edge+AI+on+Jetson+Orin+Nano;graph+neural+networks;NLP+%26+LLMs;signal+classification)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ### about me
 
 ```
 B.Tech AI & Data Science  ·  Amrita Vishwa Vidyapeetham  ·  2028
-Salem, Tamil Nadu  
+Salem, Tamil Nadu  ·
 
-member of Rewriting the Code (RtC)
+member at Rewriting the Code (RtC)
 ```
 
 ---
@@ -56,7 +64,7 @@ member of Rewriting the Code (RtC)
 | **signal classifier** | 32-class blind radio signal classification at 98% accuracy | CNN-LSTM · GNU Radio · Random Forest |
 | **AI routing** | adaptive 5G network routing with bottleneck detection | D-DQN · GNN · LSTM |
 | **NLP pipeline** | auto-extract materials + properties from research papers | Flan-T5 · few-shot prompting |
-| **pacman on edge** | lightweight Pacman AI on resource-constrained edge devices | edge optimization · real-time AI |
+| **pacman deplyment on edge** | lightweight Pacman AI on resource-constrained edge devices | edge optimization · real-time AI |
 
 ---
 
@@ -64,7 +72,11 @@ member of Rewriting the Code (RtC)
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shabnam311&theme=rose_pine&background=fdf4ff&border=f5d0fe&stroke=e9d5ff&ring=c084fc&fire=f472b6&currStreakNum=7c3aed&sideNums=7c3aed&currStreakLabel=c084fc&sideLabels=a855f7&dates=a78bfa&border_radius=12&font=Nunito)](https://git.io/streak-stats)
+<img src="./assets/pixel-stats.svg" alt="pixel stats" width="700"/>
+
+<br><br>
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shabnam311&bg_color=fdf4ff&color=a855f7&line=c084fc&point=f472b6&area=true&area_color=e9d5ff&hide_border=true&radius=12&custom_title=contribution%20activity)
 
 </div>
 
