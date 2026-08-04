@@ -5,7 +5,7 @@ Salem, Tamil Nadu
 
 member at Rewriting the Code (RtC)
 
-## 🌸 GSSoC'26 Contributor
+🌸 GSSoC'26 Contributor
 Check out my [GSSoC profile](https://gssoc.girlscript.org/profile/b5e36212-65ca-4954-b4d9-d2ccf754f0e4)
 
 ### what i build with
