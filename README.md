@@ -1,17 +1,12 @@
 ### about me
-
 B.Tech AI & Data Science  ·  Amrita Vishwa Vidyapeetham  ·  2028
 Salem, Tamil Nadu
-
 member at Rewriting the Code (RtC)
-
 🌸 GSSoC'26 Contributor
 Check out my [GSSoC profile](https://gssoc.girlscript.org/profile/b5e36212-65ca-4954-b4d9-d2ccf754f0e4)
 
 ### what i build with
-
 **languages**
-
 ![Python](https://img.shields.io/badge/Python-fde68a?style=flat-square&logo=python&logoColor=b45309)
 ![TypeScript](https://img.shields.io/badge/TypeScript-bae6fd?style=flat-square&logo=typescript&logoColor=0369a1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fef08a?style=flat-square&logo=javascript&logoColor=713f12)
@@ -21,7 +16,6 @@ Check out my [GSSoC profile](https://gssoc.girlscript.org/profile/b5e36212-65ca-
 ![CSS](https://img.shields.io/badge/CSS-bfdbfe?style=flat-square&logo=css3&logoColor=1d4ed8)
 
 **ML / AI**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-fca5a5?style=flat-square&logo=pytorch&logoColor=c2410c)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-fed7aa?style=flat-square&logo=tensorflow&logoColor=b45309)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fef08a?style=flat-square&logo=huggingface&logoColor=713f12)
@@ -32,7 +26,6 @@ Check out my [GSSoC profile](https://gssoc.girlscript.org/profile/b5e36212-65ca-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-fbcfe8?style=flat-square&logo=plotly&logoColor=9d174d)
 
 **tools & deployment**
-
 ![React](https://img.shields.io/badge/React-bae6fd?style=flat-square&logo=react&logoColor=0369a1)
 ![Electron](https://img.shields.io/badge/Electron-d9f99d?style=flat-square&logo=electron&logoColor=365314)
 ![Vite](https://img.shields.io/badge/Vite-e9d5ff?style=flat-square&logo=vite&logoColor=6d28d9)
@@ -61,10 +54,37 @@ Check out my [GSSoC profile](https://gssoc.girlscript.org/profile/b5e36212-65ca-
 
 <div align="center">
 
-
 <br><br>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shabnam311&bg_color=fdf4ff&color=a855f7&line=c084fc&point=f472b6&area=true&area_color=e9d5ff&hide_border=true&radius=12&custom_title=contribution%20activity)
+<!--
+  FIX NOTE:
+  github-readme-activity-graph.vercel.app is a single shared free Vercel
+  deployment used by a huge number of profiles. It is currently returning
+  HTTP 402 (usage/billing limit exceeded) for every request, confirmed by
+  fetching the bare URL with no parameters at all — this is a service-side
+  outage, not a mistake in the original markdown.
+
+  Swapped in ghchart.rshah.org below: a long-running, single-purpose
+  contribution-chart image service that renders right now with no setup.
+  It supports one accent color (hex, no leading #) but not the
+  line/area/title styling the other service offered.
+-->
+
+![contribution activity](https://ghchart.rshah.org/a855f7/shabnam311)
+
+<!--
+  UPGRADE PATH (closest match to the original look, incl. area/line style):
+  1. Go to https://github.com/Ashutosh00710/github-readme-activity-graph
+  2. Follow "Deploy on your own Vercel instance" (one click, ~2 min, free)
+  3. Once deployed you'll get your own URL like:
+     https://your-project-name.vercel.app
+  4. Replace the ghchart line above with:
+
+  ![contribution activity](https://your-project-name.vercel.app/graph?username=shabnam311&bg_color=fdf4ff&color=a855f7&line=c084fc&point=f472b6&area=true&area_color=e9d5ff&hide_border=true&radius=12&custom_title=contribution%20activity)
+
+  Because it's your own instance, it won't be affected by everyone else's
+  traffic hitting the shared public one.
+-->
 
 </div>
 
