@@ -1,5 +1,5 @@
 ### about me
-B.Tech AI & Data Science  ·  Amrita Vishwa Vidyapeetham  ·  2028
+B.Tech AI & Data Science  ·  Amrita Vishwa Vidyapeetham  
 
 
 ### what i build with
