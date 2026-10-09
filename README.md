@@ -37,7 +37,7 @@ B.Tech AI & Data Science  ·  Amrita Vishwa Vidyapeetham
 
 | project | tldr | stack |
 |---|---|---|
-| **HIVE** | fully offline AI desktop — diary, planner, finances, AI chat | Electron · React · Ollama · IndexedDB |
+| **HIVE** | fully offline AI desktop diary, planner, finances, AI chat | Electron · React · Ollama · IndexedDB |
 | **continual learning** | deforestation + wildfire detection from satellite imagery on-device | PyTorch · Jetson Orin Nano |
 | **federated CVD** | privacy-preserving heart disease prediction with explainable AI | FL · differential privacy · LLMs |
 | **signal classifier** | 32-class blind radio signal classification at 98% accuracy | CNN-LSTM · GNU Radio · Random Forest |
